@@ -1,6 +1,7 @@
 # Projeto Phishing com o Kali Linux
  Projeto realizado no Bootcamp de Cibersegurança do Santander
 
+<<<<<<< HEAD
 Configurando o Phishing no Kali Linux
 
 • Acesso root: sudo su
@@ -12,4 +13,4 @@ Configurando o Phishing no Kali Linux
 • Obtendo o endereço da máquina: ifconfig
 • URL para clone: http://www.facebook.com
 
-Resultados no terminal:
+Resultados no terminal
