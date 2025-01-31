@@ -13,4 +13,4 @@
 
 # **Resultados no Terminal**  
  
- ![Print do terminal](kali.png)
+ <img src="kali.png" alt="Print do Terminal" width="300"/>
